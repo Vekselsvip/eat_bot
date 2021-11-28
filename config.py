@@ -1,0 +1,2 @@
+TOKEN = '2046865009:AAHeyBTLkZYcNRkWQEdKPNNY-202nBukn6E'
+APP_NAME = 'momentubots'
